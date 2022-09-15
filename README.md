@@ -1,8 +1,8 @@
 ![Python](https://pbs.twimg.com/media/FaJ66ryXEAMaPlG?format=jpg&name=medium)
 
-In this repo, all about Python from basic to advanced. Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems
+In this repo, all about Python from basic to advanced. Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.
 
-Topics that are Covered:
+Topics that are covered:
 
 0. Introduction of Python
 1. Modules, Comments, Pip
